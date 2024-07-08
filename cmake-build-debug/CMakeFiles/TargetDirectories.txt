@@ -1,3 +1,0 @@
-/Users/joey/study/learnSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/joey/study/learnSort/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/joey/study/learnSort/cmake-build-debug/CMakeFiles/learnSort.dir
